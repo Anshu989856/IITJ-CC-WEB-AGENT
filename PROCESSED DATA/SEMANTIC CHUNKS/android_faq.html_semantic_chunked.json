@@ -1,0 +1,26 @@
+{
+    "file_name": "android_faq.html",
+    "file_path": "./owncloud_docs\\android_faq.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for Android\nIntroduction\nInstalling the ownCloud Android App\nConnecting to Your ownCloud\nManaging User Accounts\nManaging Your Files\nApplication Settings\nDocument Provider Integration\nFrequently Asked Questions (FAQ)\nAppendices\nTroubleshooting\nMobile App for Android\n4.5\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for Android\nFrequently Asked Questions (FAQ)\nnext\n4.5\n4.4\nEdit this Page\nAndroid Frequently Asked Questions (FAQ)\nTable of Contents\nIntroduction\nUsage\nMinimum ownCloud Server Version\nMinimum Android Version\nLogin With TOTP and Other 2FA\nFeature Requests\nDetect and Upload Changes From Local File System\nPrevent Direct Access to Local Sync Directory\nStore Local Sync Directory on SD Card\nMissing Translations or Translation Bugs\nTesting New Features\nIntroduction\nHere you can find some of the most frequently asked questions about the ownCloud Android app. Usage\nMinimum ownCloud Server Version\nownCloud Android app 2.15 has minimum requirement of ownCloud server 10.0 or later. ownCloud Android app 2.9 has minimum requirement ownCloud server 9.0 or later. Minimum Android Version\nownCloud Android app 2.15 and higher has a minimum requirement of Android 5.0 or later. Login With TOTP and Other 2FA\nownCloud server must have\nthe OAuth2 app\ninstalled, configured, and enabled to use Two-Factor Authentication. Please contact your ownCloud administrator for more details. Feature Requests\nDetect and Upload Changes From Local File System\nLocal changes get recognized and uploaded when you add files inside the app, or a 3rd party app sends a file to the ownCloud app, or a 3rd party app adds/edits files via the document provider. Prevent Direct Access to Local Sync Directory\nStarting with app version 2.19, ownCloud has made the transition to switch to Scoped Storage. 3rd party apps can access files only via the document provider mechanism. Store Local Sync Directory on SD Card\nThis feature is not on the roadmap of the ownCloud Android app. Document Provider Integration\nAppendices\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Check\nthis post in the community forum\nhow to install older versions. Check\nthis post in the community forum\nhow to install older versions."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "See\nPhysical Location of User Files\nfor more details."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Missing Translations or Translation Bugs\nYou can help translate in your language or fix a bug. We use Transifex for translations."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Please\nregister here\nfor an account and join the global community. Testing New Features\nUse\nthis link\nto join the beta program on Android."
+        }
+    ]
+}

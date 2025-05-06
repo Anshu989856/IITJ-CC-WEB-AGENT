@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 4,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\nAbout\n\n\nThe Digital Infrastructure & Automation (DIA) commonly known as Computer Center of the Indian Institute of Technology Jodhpur stands as a testament to the institution’s commitment to cutting-edge research, innovation, and technological development. Further, the Computer Center engages students of IIT Jodhpur in challenging hands-on projects that provide exposure to different modern technologies at the data center. In terms of its current status, the DIA of IIT Jodhpur continues to evolve and adapt to the changing technological landscape. The future vision for the DIA of IIT Jodhpur is to enhance its capabilities, such as upgradation of HPC and new software, are under procurement. Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "As a pivotal hub for computing and information technology, the Computer Center has played a crucial role in shaping the academic landscape and the advancement of the institute. Since its inception, the Computer Center has undergone remarkable development and growth, aligning itself with advancements in the field of computing. That is, the data center has ample capacity to accommodate future growth and expansion. The data center is equipped with precision cooling systems that ensure optimal performance and reliability, and redundant power backups that guarantee uninterrupted operations. The data center already houses an array of virtualization clusters, which are used for all automation (ERP, eOffice, Websites, etc.) This cluster is powered by eight modern servers and a 250 TB storage system. The Computer Center serves as an epicenter for academic and technical training programs. Through this initiative, the Computer Center established its OpenStack cluster and data center monitoring and tracking system. It developed infrastructure to remain at the forefront of research and development, addressing challenges in areas such as artificial intelligence, data science, cybersecurity, and high-performance computing."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Equipped with state-of-the-art infrastructure and a team of highly skilled professionals, the center has fostered an environment conducive to research and learning. needs at the institute. It enables its faculties to offer workshops, seminars, and training sessions on different technologies and tools. These initiatives not only enhance the knowledge and skills of students but also promote innovation. Furthermore, the center places a strong emphasis on open-source software and promotes its usage across the institute. It encourages students and faculty members to use and contribute to the open-source community, fostering a culture of sharing and collaboration."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "The Computer Center hosts a modern data center that is capable of hosting more than forty 42U server racks. The entire campus network at IIT Jodhpur runs on a high-speed backbone with a capacity of up to 10 Gbps. LAN and Wi-Fi services (802.11/b/g/n) are available throughout the campus, including both academic and residential areas. To ensure the security of the campus network, IIT Jodhpur is equipped with a strong network firewall and regularly conducts cybersecurity awareness programs."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "The DIA manages internet leased lines with bandwidths of up to 4 Gbps from NKN, BSNL, and PGCIL, ensuring reliable and fast internet access for students, faculty, staff, guests, and visitors from other institutions. Additionally, the DIA supports an IP-based telephony system for communication among faculty, Group A officers, departments, and various offices."
+        }
+    ]
+}

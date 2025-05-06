@@ -1,0 +1,26 @@
+{
+    "file_name": "android_accounts.html",
+    "file_path": "./owncloud_docs\\android_accounts.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for Android\nIntroduction\nInstalling the ownCloud Android App\nConnecting to Your ownCloud\nManaging User Accounts\nManaging Your Files\nApplication Settings\nDocument Provider Integration\nFrequently Asked Questions (FAQ)\nAppendices\nTroubleshooting\nMobile App for Android\n4.5\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for Android\nManaging User Accounts\nnext\n4.5\n4.4\nEdit this Page\nManage Users Accounts\nTable of Contents\nIntroduction\nOpen the Accounts Section\nAdding Accounts\nViewing Accounts\nRemoving Accounts & Logging Out\nChange User Passwords\nIntroduction\nThis guide describes how to manage user accounts in your Android App. Click\nAdd account\n, and then follow the instructions in\nConnecting to Your ownCloud Server\n. This will display the user details page, with the ownCloud server URI and user account, pre-filled. Connecting to Your ownCloud\nManaging Your Files\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Initially the path to the accounts section isn’t visible and you have to open it first. Open the Accounts Section\nTo open the accounts section, first click the\ndown arrow\n, in the user details section, which will replace the\n\"All Files\"\nand\n\"Uploads\"\nbuttons with\n\"Add account\"\nand\n\"Manage accounts\"\n. Then, click\nManage accounts\n. From there, you can see all of the currently active user accounts, along with a button to add a new account. Adding Accounts\nTo add a new account is identical to creating the first account. Viewing Accounts\nAfter clicking\nManage accounts\n, you will see a list of the currently active accounts in the application, as in the screenshot below."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Each entry in the list has shortcuts to:\nView the user’s files\nChange the user’s password\nRemove the account\nRemoving Accounts & Logging Out\nTo remove an account, click the\nrubbish bin\nicon, next to the key icon. This will display a confirmation dialog, asking if you want to remove the account. If you click\nYes\n, the account will be removed. This action also logs you out of the server and deletes the database with the list of files. However, any files downloaded onto the device prior to removal will still be there afterwards. When removing an account, the files related to that account are removed automatically. This is also true when uninstalling the app which removes all accounts with their data."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "You can find them in the public partition."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Change User Passwords\nTo change a user’s password, click the\nkey\nicon, next to the user’s details. Enter a new password, and click\nConnect\n, and the password will be updated. If you want extra security, please refer to the\nPasscode Locks & Pins\nsection."
+        }
+    ]
+}

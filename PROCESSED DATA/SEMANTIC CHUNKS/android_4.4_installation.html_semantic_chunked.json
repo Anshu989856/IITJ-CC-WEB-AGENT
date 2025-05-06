@@ -1,0 +1,26 @@
+{
+    "file_name": "android_4.4_installation.html",
+    "file_path": "./owncloud_docs\\android_4.4_installation.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for Android\nIntroduction\nInstalling the ownCloud Android App\nConnecting to Your ownCloud\nManaging User Accounts\nManaging Your Files\nApplication Settings\nDocument Provider Integration\nFrequently Asked Questions (FAQ)\nAppendices\nTroubleshooting\nMobile App for Android\n4.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for Android\nInstalling the ownCloud Android App\nnext\n4.5\n4.4\nEdit this Page\nInstalling the ownCloud Android App\nTable of Contents\nIntroduction\nInstallation\nUpgrading\nNew Features Wizard\nIntroduction\nThis section describes how to install and upgrade the ownCloud Android App. Installation\nOne way to get your ownCloud Android app is to log into your ownCloud server from your Android device using a Web browser such as Chrome, Firefox, or Dolphin. The first time you log into a new ownCloud account, you’ll see a screen with a download link to the ownCloud Android App in the\nGoogle Play Store\n. Users of customized ownCloud Android apps, for example from their employer, should follow their employer’s instructions. Upgrading\nWhen you download your ownCloud Android App from the Google Play store, it will be upgraded just like any other Play Store application, according to your settings on your Android device. If you are using an ownCloud Android app from a custom repository, e.g., your employer, then it will update in accordance with their policies."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "You will also find these links on your Personal page in the ownCloud Web interface. Find source code and more information from the\nownCloud download page\n. See\nPhysical Location of User Files\nfor more details. If this happens even accidentally, ownCloud recommends to disconnect all connections and manually delete all Shared Storage data."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "It will either update automatically or give you a notification that an upgrade is available. When upgrading from a release lower than 2.19, the app is using Scoped Storage instead of Shared Storage. The upgrade process takes care of transferring all files one by one from Shared Storage to Scoped Storage and deleting them from Shared Storage after a successful move of each file. Do not power off you device while an upgrade runs the migration process from Shared Storage to Scoped Storage. When finished, set up all connections once more, which are then automatically using Scoped Storage."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "The transition does not require user interaction, runs automatically and only needs to be performed once."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "New Features Wizard\nThe first time that you use the Android app, you will see the\n\"New Features Wizard\"\n. The wizard, similar to wizards in other applications and operating systems, gives you a quick overview of the new features in the ownCloud Android App, so that you’re familiar with them as quickly as possible. The new features covered in the wizard are:\nPasscode Locks & Pins\nFingerprint Lock\nGIF Support\nUpload Pictures Directly From The Camera\nimage::installation/new-features-wizard-step-owncloud-android-app.png[The\nNew Features Wizard in the ownCloud Android app., width=500]\nIntroduction\nConnecting to Your ownCloud\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        }
+    ]
+}

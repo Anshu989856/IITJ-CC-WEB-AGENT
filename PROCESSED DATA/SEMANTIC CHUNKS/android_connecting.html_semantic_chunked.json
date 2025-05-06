@@ -1,0 +1,26 @@
+{
+    "file_name": "android_connecting.html",
+    "file_path": "./owncloud_docs\\android_connecting.html",
+    "chunks": [
+        {
+            "cluster": 4,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for Android\nIntroduction\nInstalling the ownCloud Android App\nConnecting to Your ownCloud\nManaging User Accounts\nManaging Your Files\nApplication Settings\nDocument Provider Integration\nFrequently Asked Questions (FAQ)\nAppendices\nTroubleshooting\nMobile App for Android\n4.5\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for Android\nConnecting to Your ownCloud\nnext\n4.5\n4.4\nEdit this Page\nConnecting to Your ownCloud\nTable of Contents\nIntroduction\nPhysical Location of User Files\nConnecting\nIntroduction\nThis section describes how to connect the ownCloud Android App to your ownCloud. Connecting\nThe first time you run your ownCloud Android app, it opens to a configuration screen. With that completed, you’re now ready to use the ownCloud Android App. By clicking the main menu at the top left, you will be able to manage the core functionality of the app. Installing the ownCloud Android App\nManaging User Accounts\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Physical Location of User Files\nCompared to earlier versions of this app (< 2.19), the location for files created or managed by this app is called\nScoped Storage\n. Scoped Storage is, in contrast to Shared Storage, protected and part of the app. It is saved in the device’s storage (persistent memory) and limited by its capacity. Internal tests have successfully passed using more than 50GB of Scoped Storage without any issues.\n\"\""
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Files are now safe and private and can only be accessed by other apps that use the\nDocuments Provider\n. Document provider — A content provider that allows a storage service to reveal the files it manages\n\"\"\nWhen a connection is removed or the app is uninstalled, all files are removed for that connection or the whole app by design - securing data privacy. Consider if there is  there’s enough\ninternal storage capacity\nfor your files to be synced by the app. At this point, you’ll be on the\n\"All Files\"\nscreen, which you see below."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "As a rule of thumb, check the capacity necessary via the ownCloud web access first before enabling a sync for a particular mount and or path using offline access for files. For best security, your ownCloud server should be\nSSL-enabled\nso that you can connect via HTTPS. The ownCloud Android App will test your connection as soon as you provide it and tell you if you entered it correctly. If your server has\na self-signed SSL certificate\n, you’ll get a warning that it is not to be trusted. The options are:\nManage Users Accounts\nCurrent Uploads\nAll Files View\nApplication Settings\nTo use Two-Factor Authentication, ownCloud server must have the\nthe OAuth2 app\ninstalled, configured, and enabled. Please contact your ownCloud administrator for more details."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Enter your server URL, login name, password, and click the\nConnect\nbutton. Click the\neyeball\nto the right of your password to expose your password. If this happens, click the\nYES\nbutton to accept the certificate and complete your account setup."
+        }
+    ]
+}

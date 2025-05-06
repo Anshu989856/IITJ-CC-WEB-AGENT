@@ -1,0 +1,26 @@
+{
+    "file_name": "android_next_index.html",
+    "file_path": "./owncloud_docs\\android_next_index.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for Android\nIntroduction\nInstalling the ownCloud Android App\nConnecting to Your ownCloud\nManaging User Accounts\nManaging Your Files\nApplication Settings\nDocument Provider Integration\nFrequently Asked Questions (FAQ)\nAppendices\nTroubleshooting\nMobile App for Android\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for Android\nIntroduction\nnext\n4.5\n4.4\nEdit this Page\nThe Mobile App for Android\nownCloud’s Mobile App for Android offers several key advantages over the web interface."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "This guide steps you through how to install, configure, use, and troubleshoot it."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Accessing your files on your ownCloud server via the Web interface is easy and convenient."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "You can use any web browser on any operating system without installing special client software."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "However, the ownCloud Android app offers several key advantages over the web interface; these include:\nA simplified interface that fits nicely on a tablet or smartphone\nAutomatic synchronization of your files\nShare files with other ownCloud users and groups, and create multiple public share links\nUpload of photos and videos recorded on your Android device\nEasily add files from your device to ownCloud\nTwo-factor authentication\nInstalling the ownCloud Android App\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        }
+    ]
+}
