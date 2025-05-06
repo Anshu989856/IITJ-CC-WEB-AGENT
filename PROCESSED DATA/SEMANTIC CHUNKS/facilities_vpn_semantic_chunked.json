@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nVPN\nThe IITJ VPN (Virtual private Network) with SSL client is a software application that is installed on a remote computer."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "The client makes a secure connection from the remote computer to your protected network through an unsecured network, such as the Internet."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "The VPN client uses SSL (Secure Sockets Layer) to secure the connection."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "User can see  instructions and settings for connecting to IITJ VPN facility via below links."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Windows system:click here\nLinux/Mac system:click here\n\nAddress\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

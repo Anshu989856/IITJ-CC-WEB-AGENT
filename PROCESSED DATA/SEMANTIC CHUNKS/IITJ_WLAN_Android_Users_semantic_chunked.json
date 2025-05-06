@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "IITJ_WLAN configuration steps for Android User  \n \nAndroid users  need to follow the below configuration procedure t o use the IITJ_WLAN Wi -Fi facility \nin the campus . Go to your device’s download folder and look for the IITJ_WLAN_CLIENT.pfx certifi cate  to install . IITJ_WLAN_ CLIENT  and click on ok.  \n \n\nNow go to  your phone settings  >> Wi-Fi >> From available W i-Fi network  page select IITJ_WLAN  and \ninsert the following details ."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Network SSID:  IITJ_WLAN  \nSecurity type:  WPA2/WPA3 Enterprise / 802.1x EAP  \nEAP method:  PEAP  \nPhase 2 authentication:  MSCHAPV2  \nCA Certificate:  Do not validate  (If your device not supported then follow the below mentioned steps ) \nIdentity:  (Internet access ID)  \nAnonymous ID: leave it blank  \nPassword:  (Internet access password)  \n \nAt last click on the connect to access  the internet . You need to download the IITJ WLA N client certificate via following  link. Use iitj as password and click on ok  \n \n\nChoose a certificate type as Wi -Fi certificate  and click on ok. EAP method: PEAP  \nPhase 2 authentication: MSCHAPV2  \nCA Certificate: IITJ_WLAN  \nOnline certificate status: do not verify or request certificate status   \nDomain: ad.iitj.ac.in  \nIdentity: (Internet access ID)  \nAnonymous ID: leave it blank  \nPassword: (Internet access password)  \n \nAt last click on the connect to access the internet."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "“CA Certificate: Do not validate ”  \nIn some higher version of android  CA certificate is required  and there is no option of “Do not \nvalidate” . Provide  the name to this installed certificate  i.e."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "https://drive.google.com/file/d/1XwopEbQR8jj9UJyxMrwHUN -ynTvJ4T_J/view?usp=drive_link  \nThis link  is accessible through IITJ email ids only."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "While installing it will ask for the private key /password  to extract ."
+        }
+    ]
+}

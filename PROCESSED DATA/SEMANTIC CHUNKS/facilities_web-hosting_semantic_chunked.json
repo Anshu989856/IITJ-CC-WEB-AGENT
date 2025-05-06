@@ -1,0 +1,22 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nWeb Hosting\nThis is personal web hosting facility for Faculty Members of IIT Jodhpur."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Members can host their personal website at IITJ server (http://home.iitj.ac.in) by following the steps mentioned here (Click Here)."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Thus created website can be viewed at home.iitj.ac.in/~user where “user” is the internet id of the user in iitj domain."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

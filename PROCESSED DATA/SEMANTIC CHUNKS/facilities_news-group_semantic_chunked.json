@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nNews Group\nNews Group is same as a forum or an online discussion group."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "On the Internet, there are several thousands of newsgroups covering every conceivable interest."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "To view and post messages to a newsgroup, a news reader (a program that runs on the computer and connects to a news server on the Internet) is required."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "For instructions configure Newsgroup,Click Here."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

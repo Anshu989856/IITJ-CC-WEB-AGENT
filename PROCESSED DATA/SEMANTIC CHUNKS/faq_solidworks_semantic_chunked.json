@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "SolidWorks1.1.1 Steps to Install SolidWorks s2023 with Institute license\n1. SolidWorks1.1.1 Steps to Install SolidWorks s2023 with Institute license\n1.1.1 Steps to Install SolidWorks s2023 with Institute license\n»\nHome\n\n1. Steps to Install SolidWorks s2023 with Institute license\nStep 1.Download/Copy the SolidWorks Setup and key file from our IITJ ftp server (http://ftp.iitj.ac.in/Solidworks%20&%20DraftSight%202023/ )\n\nStep 2.Now Extract the copied file using winrar or zip extractor. Step 7.Now select SolidWorks and paste the copied key as shown in image below and then click on next. Step 9.Now It will try to connect to solidworks so keep the internet connected."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Step 3.Now open the extracted folder and double click or open setup file as shown in below image. Step 5.Now select Install on this computer and click on Next\n\nStep 6.Now open the key file(copied from ftp server) and copy the key as shown in image below. Step 10.Now you can edit the setup and uncheck all the unnecessary files which you don’t want to be install on your system. Step 11.Now Accept terms and conditions by click on check box and the click on Install Now as shown in image below. Step 13.Setup Installation will start and it will take around 5 to 10 minutes minimum to complete."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Step 4.New dialog box will open and will ask for admin authorization so click on Yes as shown in image. Step 8.It may show you an warning so you can click on cancel button as shown in image below."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "For example, you can remove SolidWorks electrical by click on change icon and unselect SolidWorks Electrical."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Step 12.Now it will ask for port and server so you can enter 25734@172.16.100.55  and then click on ok as show in image below."
+        }
+    ]
+}

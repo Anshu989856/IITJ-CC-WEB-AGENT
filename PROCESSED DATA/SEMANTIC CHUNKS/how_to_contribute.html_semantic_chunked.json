@@ -1,0 +1,26 @@
+{
+    "file_name": "how_to_contribute.html",
+    "file_path": "./owncloud_docs\\how_to_contribute.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nownCloud Main Page\nOverview\nServer Releases\nInfinite Scale Releases\nInfinite Scale Release Notes\nownCloud Server Releases\nownCloud Server Release Notes\nApp Releases\nDesktop App Release Notes\niOS App Release Notes\nAndroid App Release Notes\nHow to Contribute\nServer\nInfinite Scale\nownCloud Server\nApps and User Interfaces\nWeb Infinite Scale\nWeb ownCloud Server\nDesktop App\nMobile App for Android\nMobile App for iOS\nownCloud Main Page\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nownCloud Main Page\nOverview\nHow to Contribute\nEdit this Page\nHow to Contribute to the ownCloud Documentation\nTable of Contents\nDocumentation  Prerequisites\nDocumentation Sources\nReporting Documentation Errors\nReporting Documentation Suggestions\nownCloud welcomes all helpful contributions to the documentation, whether they’re reporting issues, adding new material, or writing tips and tricks. Get used to the framework:\nThe ownCloud documentation is written in the\nAsciiDoc file format\nand is powered by the\nAntora documentation platform\n. Documentation Sources\nThe locations for the sources can be found at:\nThe\nmain page\nsource which references all other documentation is found at\nowncloud/docs\n. For\nInfinite Scale\n, you find the documentation source in\nowncloud/docs-ocis\n. If you have any suggestions regarding development, see\nowncloud.dev\nand the sources at\nowncloud/ocis\n. For\nownCloud Server\n, the\nAdministration\nand\nDeveloper\nmanuals are in\nowncloud/docs-server\n. The\nweb UI\ndocumentation source for both ownCloud Server and Infinite Scale is located in\nowncloud/docs-webui\n. The\nDesktop Sync Client\ndocumentation source is located in\nowncloud/docs-client-desktop\n. The\nAndroid app\ndocumentation source is located in\nowncloud/docs-client-android\n. The\niOS app\ndocumentation source is located in\nowncloud/docs-client-ios-app\n. Finally, when contributing to the\nUI\nused by all documentation repositories, the source is located at\nowncloud/docs-ui\n. Android App Release Notes\nInfinite Scale\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Documentation  Prerequisites\nIf you wish to contribute to the official documentation manuals, you must:\nHave a\nGitHub\naccount. Read the\ndocumentation\nfor instructions on setting up your build environment and become familiar with the file format and the build system that powers the documentation. When contributing to the documentation, please follow our\nBest Practices and Tips guide\n. Reporting Documentation Errors\nIf you find any errors or omissions, we encourage you to report them. Please follow this template when reporting documentation errors:\nFirst, search the respective repository for matching or similar issues. Reporting Documentation Suggestions\nIf you don’t have a specific problem or contribution, but wish to offer a suggestion, open an issue in the appropriate repository."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Fork the official repositories as described below, write your changes and create a pull request. If an issue is not available, open a new one in the respective repository."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Link to the error that you want to see fixed. Please be aware that there are multiple release versions of most of the manuals, so please be specific as to which version needs correcting, and if the issue is in the HTML or PDF version. Quote the particular error. Provide the correct solution (if you know it) and any links to supporting references. If you don’t know the answer that is OK."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Provide screenshots if they add useful information. Provide your web browser, its version, and your operating system & version."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "IITJ_WLAN configuration steps for Apple Mac User  \nConnect with SSID : IITJ_WLAN  from available Wi -Fi connection on your  machine ."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Enter your  internet access  username and password  and click on okay to access internet \nservices ."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Allow and verify certificate  when prompt as shown in screen below."
+        }
+    ]
+}

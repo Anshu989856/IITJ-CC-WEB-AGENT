@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "IITJ_WLAN configuration steps for Linux  User  \nConnect with SSID : IITJ_WLAN  from available Wi -Fi connection on your  machine ."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Enter your  internet access  username and password  and click on okay to access internet \nservices ."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Select Net work under Wi -Fi connection  and select IITJ_WLAN to connect."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "On authentication pop up kindly select following settings ."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "SSID: IITJ_WLAN   \nSecurity : WPA2/WPA3 Enterprise / 802.1x EAP  \nAuthentication : Protected EAP  (PEAP ) \nAnonymous identity : leave it blank  \nCA Certificate:  select  No CA certificate is required  \nPEAP version:  Automatic  \nInner authentication: MSCHAPV2  \nUser name : (Internet access ID)  \nPassword:  (Internet access password)  \n \n \n\n \nAt last click on Apply and access the inte rnet services."
+        }
+    ]
+}

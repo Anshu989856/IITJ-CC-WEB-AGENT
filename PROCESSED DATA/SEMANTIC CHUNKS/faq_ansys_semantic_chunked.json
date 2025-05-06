@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Ansys1.1.1 Steps To Install Ansys 2023 R1\n1. Ansys1.1.1 Steps To Install Ansys 2023 R1\n1.1.1 Steps To Install Ansys 2023 R1\n»\nHome\n\n1."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Steps To Install Ansys 2023 R1\nStep 1.First open the institute ftp server and copy all the Ansys iso files of required version\n\nStep 2.Now extract all the files in separate folders."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Step 3.Now copy/cut all the files in a single folder and select replace all files when showing error of already file existing."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Step 4.Now select the setup and run as administrator and follow the steps as shown in following pictures\n\nStep 5.Accept the terms and conditions and click next\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFollow the steps as shown in the manual on given link (https://cc.iitj.ac.in/faq/ansys/).After Installation follow the below given instruction to use the ansys licensed version.Go to Start Menu—-> Settings—-> Advanced System Settings—-> Environment Variables—-> System Variables --> Add the environmental variables.Client Machine System Variables List:Sr.No."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Variable Name               Value1      FLEXLM_TIMEOUT              15000002      ANSYSLI_TIMEOUT_FLEXLM      153      ANSYSLI_FNP_IP_ENV          14      ANSYSLI_FLEXLM_TIMEOUT_ENV  200000005      ANSYSCL_TIMEOUT_CONNECT     606      ANSYSCL_TIMEOUT_RESPONSE    300"
+        }
+    ]
+}

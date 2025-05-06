@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nFTP\nFile Transfer Protocol (FTP) is a standard network protocol used to transfer files from one host to another host over a TCP-based network, such as the internet."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Users may download software for academic purpose through followinglink."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

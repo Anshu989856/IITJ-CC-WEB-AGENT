@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 0,
+            "chunk_content": "IITJ_WLAN configuration steps for Windows  User  \nConnect with SSID : IITJ_WLAN  from available Wi -Fi connection on your  Windows \nmachine . In the Network name field type Wi-Fi SSID name : IITJ_WLAN . You will now be presented with a Successfully added your wifi ssid IITJ_WLAN  \nmessage. Now \nyou should successfully connect to IITJ_WLAN Wi -Fi SSID to access the internet \nfacililty."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Enter your  internet access  username and password  and click on okay to \naccess internet services . In some Win dows machines , above  mentioned steps will not w ork due to manually \nenable security  or updates then you need to configure the same manually via \nfollowing steps . Look for Network and Sharing Window and click on [ Set u p a new connection or \nnetwork ]. Let’s  click on [ Change connection \nsettings ]. Now click on settings under [Security ] tab. Now enter your internet access  user name and password, followed by clicking on \nOK. \n \n \n12. Click on the OK Button on all 2 previous windows as well."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "On your Windows device open search, type Control Panel and open the Control \nPanel application. Once the Control Panel window is open click on [ View network status and tasks ]. Now click on [ Manually connect to a wireless network ] followed by clicking Next. In the Security type  \nselect WPA2 -Enterprise  from dropdown  list and click on Next. Once back on Wireless Network Properties click on [ Advanced Settings ]. Last step is to click on [Close ] of the manually connect to a wireless network."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "However,  you are not finished yet."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Un-Check Verify the server’s identity by validating the certificate  and t hen click OK.  \n \n\n9. Select the [ checkbox ] for Specify authentication mode  under Advanced settings . Choose [User authentication ] from the dropdown  and click on [Save credentials ] \n \n\n11."
+        }
+    ]
+}

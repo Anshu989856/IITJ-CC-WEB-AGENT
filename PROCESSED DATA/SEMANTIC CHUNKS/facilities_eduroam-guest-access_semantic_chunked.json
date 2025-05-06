@@ -1,0 +1,22 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nEduroam & Guest Access\nIIT Jodhpur provides Eduroam and Guest Internet Access facility to visitors from other institutions and guest users."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Visitor from other institutions may connect “eduroam” SSID through their access credentials."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "The guest may request for access credentials through department or host from IIT Jodhpur to access internet via SSID “IITJ_Guest”."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "The guest configure the eduroam WPA-2 Enterprise Wireless Network through below links:\n(i)Linux(ii)Windows(iii)Mac(iv)Mobile\n\nAddress\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 4,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nGIT Server\nGIT is a distributed version control system. To access the GIT serverclick here."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Git originates from the Linux kernel development and is used by many popular Open Source projects, e.g. The core of Git was originally written in the programming language C but Git has also been re-implemented in other languages, e.g."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "the Android or the Eclipse Open Source projects, as well as by many commercial organizations."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Java, Ruby and Python."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

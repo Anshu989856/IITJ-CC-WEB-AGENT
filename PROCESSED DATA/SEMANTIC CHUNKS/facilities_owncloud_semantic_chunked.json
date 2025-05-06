@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nOwnCloud\nOwnCloud is a flexible, open source file sync, and share solution providing benefits of “Cloud Computing” storage and control of owner data on a private server."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Information stored in OwnCloud can be accessed from a mobile device, a workstation, or a web client through followinglink."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Hosting  personal  home page  \n1."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Download any ftp uploade d software  (Ex: WinSCP, FireFTP, Filezila ) \n2. Drag  file in  public_html"
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Enter Host Name  : home.iitj. Enter User Name:  user name ( Ex: rinkesh ) \n4."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "ac.in  or 172.16.100.51     Port:  22  \n3."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Enter Password: LDAP Password  \n5."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 3,
+            "chunk_content": "Home\nFAQs\nPeople\nLicenses\nManual\nFacility\nWork With US\nContact\n\nTelephone Facility\nIIT Jodhpur provides IP telephone to all Faculty, Group A officers, departments and various offices. Address\nDigital Infrastructure & AutomationComputer Center,Indian Institute of Technology Jodhpur,NH 62 Nagaur Road, Karwar 342030,Jodhpur District\nContact Us\nEmail: office_dia[at]iitj[dot]ac[dot]in\nCommunication: 0291-280-1180\nCopyright© IIT Jodhpur\n\n\n\n\nRegister\nLogin"
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Users may contact by dialing 0291 280 xxxx where “xxxx” is intercom number of concern section. Drive Link\nPhone Directory\n\nThe dialing procedure for accessing Intercom, local, STD & ISD facilities from your extension phone is as follows:\nWithin the campus dial four digit intercom number."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Institute telephone directory can be find through following link."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Call on Mobile: Dial 90 before 10 digit mobile number."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Local call in Jodhpur on landline: dial 9 and seven digits of landline number without area code. Call anywhere in Rajasthan/India on landline : Dial 90 and STD code before landline number. Call outside of India: Dial 00 before the destination number."
+        }
+    ]
+}
