@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_latest_faq.html",
+    "file_path": "./owncloud_docs\\ios-app_latest_faq.html",
+    "chunks": [
+        {
+            "cluster": 0,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\n12.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nFrequently Asked Questions (FAQ)\nnext\n12.4\n12.3\nEdit this Page\niOS Frequently Asked Questions (FAQ)\nTable of Contents\nIntroduction\nUsage\nCompatibility With ownCloud Server Older Than Version 10.0\nCompatibility With iOS Versions Older Than iOS 12.0\nLogin With TOTP and Other 2FA\nFeature Requests\nFileProvider: Access Full Folder, Not Only Single Files\nFileProvider: Support \"Recent items\" and \"Favorites\"\nText Editing Inside the iOS App\nMissing Translations or Translation Bugs\nTesting New Features\nIntroduction\nHere you can find some of the most frequently asked questions about the ownCloud iOS app. Usage\nCompatibility With ownCloud Server Older Than Version 10.0\nPrevious ownCloud iOS app with support for ownCloud Server < 10.0 is still available in\nApp Store\n. Compatibility With iOS Versions Older Than iOS 12.0\nPrevious ownCloud iOS app with support for iOS < 12.0 is still available in\nApp Store\n. We track the status here:\nhttps://github.com/owncloud/ios-app/issues/604\nFileProvider: Support \"Recent items\" and \"Favorites\"\nTo support \"Recent items\" and \"Favorites\" in the iOS Files app, implementation of the\nWorking Set\nis needed. Here you can find previous discussions:\nhttps://github.com/owncloud/ios-app/issues/317\nMissing Translations or Translation Bugs\nYou can help translate in your language or fix a bug."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Login With TOTP and Other 2FA\nownCloud server must have\nthe OAuth2 app\ninstalled, configured, and enabled to use Two-Factor Authentication. Please contact your ownCloud administrator for more details. Feature Requests\nFileProvider: Access Full Folder, Not Only Single Files\nThis seems like a bigger challenge for us. Security\nAppendices\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "This is one of the next roadmap items, but there’s no ETA yet. Testing New Features\nUse\nthis link\nto join the beta program on iOS."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Text Editing Inside the iOS App\nCurrently this isn’t a planned feature. Focus is more to build the best integration in serious 3rd party text editing app. We use Transifex for translations."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Please\nregister here\nfor an account and join the global community."
+        }
+    ]
+}

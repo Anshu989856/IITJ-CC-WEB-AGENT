@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_quick_access.html",
+    "file_path": "./owncloud_docs\\ios-app_quick_access.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\n12.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nQuick Access\nnext\n12.4\n12.3\nEdit this Page\nQuick Access\nTable of Contents\nIntroduction\nShares\nCollection\nIntroduction\nThis guide steps you through how to use the Quick Access functionality of ownCloud’s Mobile App for iOS. Collaboration and Links\niOS Files App and 3rd Party Apps\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "To do so, click\nQuick Access\n, located in the footer of the application. Quick access is broken down into two sections:\nShares\nand\nCollection\n."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Shares\nShares, as the name implies, lets you quickly see all files that are:\nShared with you\nSee a list of all resources you accepted from other users. Shared with others\nSee a list of all resources where you invited collaborators. Public links\nSee a list of all resources where you created links."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Collection\nCollection gives you quick access to:\nRecently accessed files\nThese are files that were used sometime within the previous week, where used covers when it was imported, locally update, or was download."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Files marked as favorite\nSee a list of all resources in your account set as favourite. Files available offline\nSee a list of all files and folders in your account that are\navailable offline\n. Image files\nSee a list of all image files in your account. PDF files\nSee a list of all PDF files in your account."
+        }
+    ]
+}

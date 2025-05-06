@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_next_available_offline.html",
+    "file_path": "./owncloud_docs\\ios-app_next_available_offline.html",
+    "chunks": [
+        {
+            "cluster": 3,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nOffline Files and Folders\nnext\n12.4\n12.3\nEdit this Page\nOffline Files and Folders\nTable of Contents\nIntroduction\nMaking a File or Folder Available Offline\nRemoving a File or Folder from Offline Storage\nViewing Offline Files\nView Offline Files by Location\nView a List of All Offline Files\nStorage\nIntroduction\nThe ownCloud iOS app supports offline storage of files and folders, allowing them to be accessed even when an internet connection is temporarily unavailable. Managing Your Files\nCollaboration and Links\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Making a File or Folder Available Offline\nTo make a file or folder available offline, click on the\nMore\nicon and press \"\nMake available offline\n\" from the list of available actions. Make file available offline\nMake folder available offline\nFiles that have been made available offline are identifiable by the available offline icon. By pressing the\nMore\nicon next to a file or folder and pressing \"\nAvailable offline\n\" from the list of available actions. By swiping left on an item in the Available Offline Locations list and pressing \"\nMake unavailable offline\n\". Viewing Offline Files\nTo view all offline files, from the\nQuick Access\nmenu, tap\nAvailable Offline\n. If no files have been marked as available offline, then no files will be available. If one or more files have been marked as available offline, then you have two ways of viewing them. View files by location\nView a list of all files\nView Offline Files by Location\nIn the screenshot below, you can see that there are one or more files in the\nPhotos\ndirectory that have been marked as available offline. If you tap one of the available directories, you will then see all files in that directory that are available offline, similar to how you would view files normally. View offline files by location\nView a List of All Offline Files\nIn the screenshot below, you can see all the items that have been marked as available offline. This setting applies to all local files, not just available offline files."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "In the screenshots below, you can see an example of the available actions for files and folders. You can see an example of the icon image below."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Removing a File or Folder from Offline Storage\nAny file or folder that has been made available offline can also be removed from offline storage in several ways. View all offline files\nStorage\nLocally available file copies can be set to be automatically deleted after a specified period, ranging from 1 minute to 30 days, to clean up device space. This is available under\nSettings\nStorage\nDelete unused local copies\n."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "The default is seven days."
+        }
+    ]
+}

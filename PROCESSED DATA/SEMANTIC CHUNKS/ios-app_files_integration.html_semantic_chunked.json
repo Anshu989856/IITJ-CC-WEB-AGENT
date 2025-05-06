@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_files_integration.html",
+    "file_path": "./owncloud_docs\\ios-app_files_integration.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\n12.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\niOS Files App and 3rd Party Apps\nnext\n12.4\n12.3\nEdit this Page\niOS App and iOS Files App Integration and 3rd Party Apps\nTable of Contents\nIntroduction\nWork With Your ownCloud Data in iOS Files App\nShare From Other Apps (via iOS Files App)\nIntroduction\nThis guide steps you through ownCloud’s Mobile App for iOS’s integration with the iOS Files App. Work With Your ownCloud Data in iOS Files App\nTo enable this possibility, click\nBrowse\n, then\nEdit\n. Next, in the list of apps under Locations, enable the ownCloud app for your account. In future versions, it is expected that the following functionality will also be supported:\nShare (UI)\nOffline (UI)\nFavourites\nTags\nShare From Other Apps (via iOS Files App)\nWhen the iOS app is installed and at least one account is properly configured, files on your iOS device can be shared with your ownCloud server. Enable the ownCloud app as an iOS Files app location\nPick a file to \"Save to Files\"\nPick the location to save the file and click \"Add\"\nQuick Access\nTask Scheduling\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "When enabled, you can open, edit, save, and delete files and folders."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "However, the functionality needs to first be enabled."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "To do so, first enable the location from the Locations list (step through how to do this). After that, when sharing a file, first click\nSave to Files\n, choose a location to store the file, and click\nAdd\n."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "These steps are shown in the three images below."
+        }
+    ]
+}

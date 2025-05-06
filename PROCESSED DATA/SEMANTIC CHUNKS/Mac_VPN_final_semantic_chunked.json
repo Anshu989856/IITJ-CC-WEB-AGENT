@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "IIT Jodhpur  VPN Connection Procedure for macOS  \n Above screen will appears."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Use your internet access credentials for login with SSL-VPN Portal."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "After successful login you have two different options to go further."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Launch FortiClient - If you have already installed the FortiClient then you may launch FortiClient  2."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Download FortiClient - Download and install the FortiClient tool as per your convenience – iOS, Android, Windows and Mac   \n\nStep1: - kindly download the software from the following link  \n \n https://links.fortinet.com/forticlient/mac/vpnagent  \n \n \n \n2) Please accept and install the client software\n \n \n\n3) Configure New VPN as shown in the PIC  \n \n \n \n4) Connect VPN with LDAP credentails  \n \n \n \n \n\n5)  Please allow Forticlinet under MACOS  privacy → Accessibility\n \n \n6) Connection Sucessful\n \n \n \n \n \n\n7) Open any browser and access eOffice with the following link: -"
+        }
+    ]
+}

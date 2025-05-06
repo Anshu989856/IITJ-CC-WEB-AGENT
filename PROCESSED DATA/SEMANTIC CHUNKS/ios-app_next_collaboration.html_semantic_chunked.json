@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_next_collaboration.html",
+    "file_path": "./owncloud_docs\\ios-app_next_collaboration.html",
+    "chunks": [
+        {
+            "cluster": 3,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nCollaboration and Links\nnext\n12.4\n12.3\nEdit this Page\nCollaboration and Links\nTable of Contents\nIntroduction\nCollaborate With Other Users on Files and Folders\nManage Links\nGrant Access With Links\nCopy Private Links\nCreate Public Links\nSend Public Link URLs to Other Apps\nDelete Public Links\nView Public Links\nIntroduction\nThis section shows how to collaborate with other users and how to work with links. Collaborate With Other Users on Files and Folders\nThe Mobile App for iOS supports the following collaboration functionality:\nAdding users and grant permissions\nAdding groups and grant permissions\nChanging permissions\nDeleting collaborators\nManage Links\nGrant Access With Links\nJust as with the web interface, the iOS app lets you grant access to both files and folders with links. Offline Files and Folders\nQuick Access\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Specifically, you can do the following:\nCopy private links\nCreate public links\nSet passwords and expiration dates\nSend public link URLs to other apps (mail, messenger)\nDelete public links\nCopy Private Links\nTo copy a private link to a file or folder, click the more icon on the far right-hand side of the file, and then click\nLinks\n. As with the web interface, you can set:\nA link name\nLink permissions\nA link password and expiration date\nTo see more details about each option, click the info icon in the bottom right-hand corner. Set Passwords and Expiration Dates\nTo set a password on a public link, under \"\nOptions\n\", enable\nPassword\n. Then, type a password in the field that appears below the Password option. To set an expiration date on a public link, under \"\nOptions\n\", enable\nExpiration date\n. Then, pick the date that the link should expire with the date picker that appears below the Expiration date option."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "As in the example below, you will then see the private link to the file. Create Public Links\nTo create public links to a file or folder, click the more icon on the far right-hand side of the file, and then click\nLinks\n. Then, under Public Links, click\nCreate Public Link\nin the Public Links section. You will then see the links for the option, as in the image below. There, you will see a list of files and folders that have Public Links. For any of the files and folders,\nclick the More icon, where you will see the number of links for that file or folder."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Clicking\ncopy\non the far right-hand side will copy the link to the iOS clipboard. Send Public Link URLs to Other Apps\nTo share a public link URL via other apps:\nOpen the Public Link’s details. Click the share button at the bottom left-hand corner, which opens the iOS Share Sheet. Share the link through the app of your choice."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Delete Public Links\nThere are two ways to delete a public link. When viewing the list of links for a file or folder, swipe left on the link that you want to delete,\nand click\nDelete\n. image::collaboration/swipe-and-delete-public-link.png[, width=250]\nWhen viewing the Public Link, click\nDelete\nat the bottom of the page, under\nCopy Public Link\n. image::collaboration/delete-public-link.png[Delete a Public Link in ownCloud’s iOS app, by clicking Delete at the bottom of the Public Link details page, width=250]\nView Public Links\nThe quickest way to view Public Links is by navigating to\nQuick Access\nShares\nPublic Links\n."
+        }
+    ]
+}

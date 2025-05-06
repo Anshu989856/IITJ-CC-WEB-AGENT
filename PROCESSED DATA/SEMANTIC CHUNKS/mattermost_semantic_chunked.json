@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Home\n»\nHome\n\nMatterMost IIT Jodhpur\nMattermost Messaging Platform:In order to reduce the dependency on third-party vendors and keep our communication data (which is absolutely critical to be in our hands) with IIT Jodhpur itself, Computer Center hosted an open-source MatterMost Messaging platform."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Mattermost provides secure communication, collaboration, and orchestration of work across teams and tools."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Currently, the mattermost messaging platform is capped to the IITJ domain."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "However, users can register directly on the link:-https://mm.iitj.ac.inwith the IITJODHPUR email address."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "We have enabled us to do meetings directly from mattermost\nA) WebEx meeting with your IITJ login id:-\n\nB) Jitsi in-house video conferencing directly from Mattermost:-"
+        }
+    ]
+}

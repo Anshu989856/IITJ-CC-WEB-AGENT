@@ -1,0 +1,26 @@
+{
+    "file_name": "ocis_7.0_conf-examples_office_office-integration.html",
+    "file_path": "./owncloud_docs\\ocis_7.0_conf-examples_office_office-integration.html",
+    "chunks": [
+        {
+            "cluster": 3,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nInfinite Scale Documentation\nIntroduction\nQuick Guide\nInfinite Scale Overview\nArchitecture and Concepts\nAvailability and Scalability\nSecurity Aspects\nDeployment\nPrerequisites\nStorage\nGeneral Storage Considerations\nNetwork File System\nS3\nPosixFS\nGeneral Information\nThe ocis init Command\nContainer Orchestration\nOffice Applications using WOPI\nSecuring oCIS\nUser Triggered GDPR Report\nServices\nGeneral Information\nDeployment Considerations\nEnvironment Variable Notes\nEnvironment Variables with Special Scope\nEnvironment Variable Changes\nRegistry\nCaching and Persistence\nGateways\nLogging\nPorts Used\nTransport Layer Security\nList of Services\nActivitylog\nAntivirus\nApp Provider\nApp Registry\nAudit\nAuth App\nAuth Basic\nAuth Bearer\nAuth Machine\nAuth Service\nClientlog\nCollaboration\nEventhistory\nFrontend\nGateway\nGraph\nGroups\nIDM\nInvitations\nIDP\nNATS\nNotifications\nOCDAV\nOCM\nOCS\nPolicies\nPostprocessing\nProxy\nSearch\nSettings\nSharing\nSSE\nStore\nStorage-Publiclink\nStorage-Shares\nStorage-System\nStorage-Users\nThumbnails\nUserlog\nUsers\nWeb\nWebDAV\nWebfinger\nWeb UI\nCustom Configuration\nCustom Theming\nMaintenance\nBackup and Restore\nBackup Considerations\nBackup\nRestore\nMaintenance Commands\nListing Space IDs\nListing User IDs\nMigration and Upgrades\nUpgrading Infinite Scale\nMonitoring\nPrometheus\nConfiguration Examples\nOffice Integration\nSearch\nDeployment Examples\nMinimal Bare Metal\nBare Metal with systemd\nContainer Setup\nUbuntu with Docker Compose\nLocal Production Setup\nDeployment on Hetzner\nSetup Federations\nScienceMesh Setup\nAdditional Information\nKnowledge Base\nInfinite Scale Documentation\n7.0\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nInfinite Scale Documentation\nConfiguration Examples\nOffice Integration\nnext\n7.1\n7.0\nEdit this Page\nIntegrating Office Applications\nTable of Contents\nIntroduction\nConfiguration\nIntroduction\nIf you configure the Infinite Scale collaboration service, you can integrate major office applications like Collabora, ONLYOFFICE or Microsoft Online. Prometheus\nSearch\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "See the\nOffice Applications Using WOPI\ndocumentation for special notes on Microsoft Office."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "The docker compose stack provided consists of several containers where only a few settings need to be configured via a central configuration file:\nTraefik\n, is a modern HTTP reverse proxy and load balancer which is terminating SSL and forwards the requests to Infinite Scale in the internal Docker network."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Then there is Infinite Scale,\nthe collaboration service,\nthe Collabora and/or OnlyOffice containers that can be individually enabled,\nsupplemental containers with extended functionalities or to enhance the web UI with web-applications."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Configuration\nSee the\nLocal Production Setup\nguide for details how to install and configure it."
+        }
+    ]
+}

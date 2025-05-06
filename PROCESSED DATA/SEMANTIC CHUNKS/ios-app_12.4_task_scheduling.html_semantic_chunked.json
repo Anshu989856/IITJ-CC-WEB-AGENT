@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_12.4_task_scheduling.html",
+    "file_path": "./owncloud_docs\\ios-app_12.4_task_scheduling.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\n12.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nTask Scheduling\nnext\n12.4\n12.3\nEdit this Page\nTask Scheduling\nTable of Contents\nIntroduction\nTasks\nInstant Photo Upload\nIntroduction\nBackground tasks are scheduled based on the app’s current context, and that context is based on a combination of factors. iOS Files App and 3rd Party Apps\nSecurity\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "These factors include:\nIs the app backgrounded or in the foreground?"
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Is the device in Low Power Mode? Is the device connected to external power?"
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Has the photo library changed? Tasks\nCurrently, two tasks are available:\nInstant photo uploads:\nThis task is triggered when:\nThe photo library has new photos, and;\nThe user is connected to a WiFi network\nBookmark update task:\nThis task is triggered by the background fetch event scheduled by iOS\nInstant Photo Upload\nThere are some things to be aware of, regarding Instant Photo Upload. Photo and video upload can be enabled and disabled separately. Before instant media upload can begin, the account and upload path have to be selected\nChanges in the photo library are detected when the app goes into the foreground. If a user removes the folder specified for instant upload, the upload task silently exits."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "When a user first activates instant upload, the timestamp of the activation is stored and compared\nagainst the creation date of the assets to be uploaded. As soon as one asset is successfully uploaded,\nits creation timestamp is used to update the instant upload activation timestamp. This:\nPrevents assets being uploaded twice\nRemoves the need to keep track of uploaded items in a database\nPlease note, that already uploaded and edited asset is not going to be uploaded again\nMedia conversion settings are taken into account by instant upload feature."
+        }
+    ]
+}

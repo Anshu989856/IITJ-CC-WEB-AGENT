@@ -1,0 +1,26 @@
+{
+    "file_name": "ios-app_settings.html",
+    "file_path": "./owncloud_docs\\ios-app_settings.html",
+    "chunks": [
+        {
+            "cluster": 4,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nMobile App for iOS\nIntroduction\nGetting the ownCloud iOS App\nManaging User Accounts\nConfigure Settings\nManaging Your Files\nOffline Files and Folders\nCollaboration and Links\nQuick Access\niOS Files App and 3rd Party Apps\nTask Scheduling\nSecurity\nFrequently Asked Questions (FAQ)\nAppendices\nMobile Device Management (MDM)\nTroubleshooting\nMobile App for iOS\n12.4\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nMobile App for iOS\nConfigure Settings\nnext\n12.4\n12.3\nEdit this Page\nConfigure Settings\nTable of Contents\nIntroduction\nSettings Screen\nSecurity\nPasscode\nLock Delay\nBiometrical Lock\nTrusted Certificates\nThemes\nSystem Appearance (up from iOS 13)\nLogging\nMedia Upload (Conversion)\nImage\nVideo\nIntroduction\nThis guide steps you through how to configure ownCloud’s iOS App for iPhone and iPad. It covers security, theme, logging, and media upload settings. Settings Screen\nTo manage the settings in ownCloud’s iOS App for iPhone and iPad, click\nSettings\nin the bottom right-hand corner of the Accounts List view. Logging\nThe ownCloud iOS app has built-in logging functionality, available under\nSettings\nLogging\n. To find out more, please refer to the\nlogging section of the Troubleshooting guide\n. This is not done by default. Managing User Accounts\nManaging Your Files\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Security\nPasscode\nTo protect access to the iOS app with a Passcode, enable\nPasscode Lock\nin the Setting’s Security section. You will then be prompted to enter, and repeat, a 4-digit Passcode. If a Passcode was set, the file provider extension in Files.app or in other third party apps will be locked too. The file provider presents a UI to unlock the Passcode. Lock Delay\nWhen a Passcode is enabled, the app will be locked every time you change to another application. However, under\nSettings\nSecurity\nLock application\n, you can choose to only lock the application after 1, 5, or 30 minutes, instead of \"\nimmediately\n\", which is the default. Biometrical Lock\nAfter a Passcode has been created, a Biometrical Lock, or Touch ID, can also be used to gain access to the app. To enable it enable\nTouch ID\nin the Setting’s\nSecurity\nsection, and then enter your 4-digit Passcode. The next time you need to authorise access to the app, you will be able to enter either your Passcode, or use your stored biometrical data."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Trusted Certificates\nView Previously Approved Certificates\nTo view previously approved certificates, navigate to\nSettings\nCertificates\n(for any one of your registered accounts), and you will see them listed in the \"\nUser-Approved Certificates\n\" section. Inspect Previously Approved Certificates Details\nTo view previously approved certificates, swipe left on any of the accounts in the accounts list and click\nEdit\n. Then, under \"\nSERVER URL\n\", click\nCertificate Details\n. You will then be able to see all of the certificate’s details. Revoke Previously Approved Certificates\nTo revoke one or more previously approved certificates, first navigate to\nSettings\nCertificates\n(for any one of your registered accounts). Then, in the \"\nUser-Approved Certificates\n\" section, swipe left on the certificate(s) that you wish to revoke and press\nRevoke approval\n."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Themes\nThe iOS app comes with three themes:\nLight\nDark; and\nClassic\nTo change the theme, navigate to\nSettings\nTheme\n, and pick the one that you want. The three themes in ownCloud’s iOS App for iPhone and iPad. Classic theme\nDark theme\nLight theme\nSystem Appearance (up from iOS 13)\nWhen System Appearance is selected, ownCloud will automatically use the selected iOS system theme (light or dark) to reflect the system UI. Setting System Appearance is only available up from iOS 13."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Media Upload (Conversion)\nWhen image and video files are uploaded, they can be converted to the industry-standard JPEG and MP4 respectively. Image\nTo convert (the very efficient)\nHEIC (High Efficiency Image File Format) images\nto more compatible JPEG images, enable\nConvert HEIC to JPEG\nunder\nSettings\nMedia Upload\n. Video\nTo convert the very efficient videos to more compatible MP4 videos, enable\nConvert videos to MP4\nunder\nSettings\nMedia Upload\n."
+        }
+    ]
+}

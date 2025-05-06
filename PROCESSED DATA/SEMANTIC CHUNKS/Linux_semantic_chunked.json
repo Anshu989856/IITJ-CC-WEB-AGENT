@@ -1,0 +1,22 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Eduroam wifi configuration steps for Linux \nUser \nConnect with SSID: eduroam from available Wi-Fi connection on your machine."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Enter your internet access username@ad.iitj.ac.in and password and click on okay to \naccess internet services."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Advance option: \n \nSelect Network under Wi-Fi connection and select eduroam to connect \n \n \n On authentication popup kindly select following settings."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "SSID: eduroam  \nSecurity: WPA2/WPA3 Enterprise / 802.1x EAP \nAuthentication: Protected EAP (PEAP) \nAnonymous identity: leave it blank \nDomain: iitj.ac.in  \nCA Certificate: select No CA certificate is required \nPEAP version: Automatic  \nInner authentication: MSCHAPV2 \nUsername: \n(yourusername@ad.iitj.ac.in) \nPassword:  \n(Internet access password) \n \nAt last click on Apply and access the internet services"
+        }
+    ]
+}
