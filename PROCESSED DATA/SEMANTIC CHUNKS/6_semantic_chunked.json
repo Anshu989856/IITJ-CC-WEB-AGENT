@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "(© aspenONE Installer x\n\naspenONE installation progress\n\nWelcome ‘Overall installation progress:\n0%\n\nSoftware terms\naspenONE Product Progress Status\n\naspenONE Common Components."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Prerequisites aspenONE Common Components."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Process Modeling (Aspen Plus)\nProcess Modeling (Aspen HYSYS)\n‘Aspen Exchanger Design & Rating\n‘Aspen Economic Evaluation\n\n‘Aspen Basic Engineering\n\nServer Products and Tools\naspenONE Shared Components."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Product selection\n\nLicensing & security\n\nProduct configuration\n\nSummary\n\n» Progress\n\nExecuting pre-install steps."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Please wait,\n\nView Log File\n\nCancel"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "© aspenONE Installer\n\nVerify your installation\n\nWelcome\n\nSoftware terms\n\nProduct selection\n\nPrerequisites\n\nLicensing & security\n\nProduct configuration\n\nSummary\n\nProgress\n\nPlease verify your installation."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "32-bit location: C:\\Program Files (x86)\\AspenTech\\\n64-bit location: C:\\Program Files\\AspenTech\\\n\n@aspentech\n\naspenONE Products\nProcess Modeling (Aspen Plus)\nProcess Modeling (Aspen HYSYS)\n‘Aspen Exchanger Design & Rating\n‘Aspen Economic Evaluation\nAspen Basic Engineering\n‘Aspen Basic Engineering End-User Tools\nAspen Basic Engineering Configuration Tools,\nServer Products and Tools\nAspen Al Model Builder Tools\naspenONE Shared Components."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "<Back | [install Now\n\nCancel"
+        }
+    ]
+}

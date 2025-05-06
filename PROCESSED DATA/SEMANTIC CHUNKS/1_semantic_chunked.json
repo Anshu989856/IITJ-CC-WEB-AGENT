@@ -1,0 +1,22 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "© aspenONE Installer\n\nWelcome to the aspenONE Engineering V14 Installer\n\nGetting Started Guide\n\nInstallation Guides\nRelease Notes\n‘aspenONE Product\nDocumentation\nUnattended Install\nNotes\n\n‘Support Services\n\nAspenTech Home\n\nContact Us\n\n‘The aspenONE Installer guides you through the steps to install or upgrade products, configure licensing, and\n‘create a script for unattended installation."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "aspenONE V14 products require an SLM License Server from V14 or\nhigher."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Before you install any products, you should install and configure the SLM License Server."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Install aspenONE products\nInstall aspenONE Engineering V14,\n\nUpgrade\nupgraded to the version included in this media,\n\nAdministrative Workflow:\n\nConfigure recording options for Silent Install script and copy media to automate\n\n& Prepare Deployments (For IT Personnel/Deployment Groups)\nsoftware deployment."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "© aspenONE Installer\n\nChoose the aspenONE products you want to install\n\nween aspenONE Products | File Location\nSelect the product groups you want to install, To see products included in each group, simply\nSoftware terms hover over a selection,\n\nServer Products and Tools\n\n» Product selection |Process Modeling (Aspen HYSYS)\n\nThe following options will be\n\nPrerequisites Aspen Online (Plant 0 installed: Aspen Remote Simulation\nAspen Dating Want D Service, APED databases and SQL\nESET) > Aspen OptPlant Server, Aspen Knowledge In-\niServer Products and Tools earrentceneeenc erenlal\nProduct configuration Model Builder Tools."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "‘Summary\nProgress\n\nEstimated space required on drive: 11206 MB."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Estimated space available on drive: 251619 MB"
+        }
+    ]
+}

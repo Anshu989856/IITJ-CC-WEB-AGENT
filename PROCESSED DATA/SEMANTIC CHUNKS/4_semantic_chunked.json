@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "© aspenONE installer\n\n@aspentech\n\nSpecify licensing & security\n\nPlease provide the licensing and Security server information below. Software terms n ove\nPlease provide alist of license servers for AspenTech products."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Welcome Licensing\n‘This step allows you to setup licensing information on this machine for network and standalone licenses."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "For\nmore information, please see the SLM Installation and Reference guide."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Install wll kep the server names and bucket\n\npenta numbers already configured on this machine, Additional buckets can be added through the SLM\n\n‘Configuration Wizard\ncE Sia Eb License sever [172,25.0.214 ww Rd Server\n[Remove Server]\nProduct configuration\nView Buckets\nSumma\n\" Diesoive server name\nStandalone Licensing ©\nProgress Browse to the folder where the local license is stored and add it here."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "ee License file: Browse...\n<Back |[ Next> | | Cancel"
+        }
+    ]
+}

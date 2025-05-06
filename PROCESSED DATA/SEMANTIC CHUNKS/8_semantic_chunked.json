@@ -1,0 +1,18 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "1 SOLIDWORKS 2023 $P40 Installation Manager\n\noS SOLIDWORKS\n\nsummary\nThis @ new installation of 2023 $P40."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "\\ Products change\n\n‘SOLIDWORKS: PhotoView 360, SOLIDWORKS Toolbox, SOLIDWORKS Routing, ScanTo3D, TolAnalyst,\nCircuitWorks, SOLIDWORKS Costing, Design Checker, Example Files, Manuals, Help Files a\n‘SOLIDWORKS Languages: English\n\nDrawings\n\n‘SOLIDWORKS Flow Simulation\n\n‘SOLIDWORKS Plastics\n\n‘SOLIDWORKS Electrical Electrical Client (SOLIDWORKS Electrical Schematic, SOLIDWORKS Electrical 3D),\nElectrical Server (Callaharative Server Annliratinn Mats)\n\n> Download Options Background Downloader is on © Change\n> Installation Location Change\n\n\\ ToolbowHole Wizard Options change 6?"
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Toolbox installation location: _C:\\SOLIDWORKS Data\nToolbox installation method: New Toolbox\n\n| accept the terms of the SOLIDWORKS\nnse Agreement\n\nx ?"
+        }
+    ]
+}

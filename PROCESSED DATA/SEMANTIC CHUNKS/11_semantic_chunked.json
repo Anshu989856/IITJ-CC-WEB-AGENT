@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "WORKS 2023 SPA0 Installation Man:\n\noS SOLIDWORKS\n\nInstallation is Complete\n\nCo Show me What's New in SOLIDWORKS 2023. Join the SOLIDWORKS Customer Experience Improvement Program\n\n‘© Participation directly improves the stability of SOLIDWORKS products."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "‘© Data are continuously analyzed to help determine crash causes, create solutions and identify stability trends."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "‘System performance is not affected by participating in this program. Dassault Systemes SolidWorks Corporation does not access or collect model data or information about any of your other\nsoftware applications."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Tellme more\n\nYes, want to join\nNo, thank you\nRemind me later\n\nYou can choose to join later from the Systems Options dialog box."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": ">I |\n\nHelp Finish"
+        }
+    ]
+}

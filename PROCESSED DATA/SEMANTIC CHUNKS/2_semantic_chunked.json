@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "© aspenONE Installer\n\nWelcome\n\n» Software terms\n\nPrerequisites\n\nLicensing & security\n\nProduct configuration\n\n‘Summary\n\nProgress\n\nRead the aspenONE Software License Terms @aspentech\n\n‘To continue, you must accept the terms of this agreement."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "If you do not accept the aspenONE Software License\n‘Terms, cancel the installation,\n\nBY SELECTING THE \"I ACCEPT” BUTTON AFTER REVIEWING THE STATEMENTS BELOW, YOU *\nWARRANT AND REPRESENT THAT THESE STATEMENTS ARE TRUE AND CORRECT AND CONFIRM\nYOUR AGREEMENT WITH THESE STATEMENTS. You acknowledge and agree that you\nmay use the software solely as explicitly authorized by AspenTech in the Agreement. You acknowledge and agree that title to, ownership of, and all rights in patents, copyrights,\ntrade secrets and other intellectual property rights in the software shall remain in AspenTech\nand/or AspenTech's third party vendors and licensors."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "1, You are either (a) an employee of an Aspen Technology, inc. (‘AspenTech’) customer that is\nduly-licensed to use this software (‘Licensee’) in accordance with a written, fully-executed license\nagreement between Licensee and AspenTech (\"Agreement’); (b) a contractor or consultant\nauthorized by Licensee to access the software in accordance with the Agreement: or (@) an\nemployee or authorized contractor or consultant of an affiliate of Licensee that is authorized to\naccess the software in accordance with the Agreement."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "You will not make any modifications or enhancements to the software, create any derivative\nworks of the software, or merge or separate the software or any component thereof."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "y\n\n| accept the terms of this agreement\n\n<Back | [_Next > Cancel"
+        }
+    ]
+}

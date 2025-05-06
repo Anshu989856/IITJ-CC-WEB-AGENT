@@ -1,0 +1,22 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Security Alert x\n\n‘The identty ofthis web ste or the integrty ofthis connection\ncannot be verfie."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "@ The securty cetficate is from a trusted certfying author."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "@ The secutty cetficate date is valid\n\nA Thename on the securtycerticate is invalid or does not\nmatch the name ofthe ste\n\n@ Tre secur coticte uses a strong senate\n\nDo you want to proceed?"
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "vee |e) ew te"
+        }
+    ]
+}
