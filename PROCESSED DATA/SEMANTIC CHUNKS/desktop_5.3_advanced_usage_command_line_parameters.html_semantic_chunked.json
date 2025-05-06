@@ -1,0 +1,26 @@
+{
+    "file_name": "desktop_5.3_advanced_usage_command_line_parameters.html",
+    "file_path": "./owncloud_docs\\desktop_5.3_advanced_usage_command_line_parameters.html",
+    "chunks": [
+        {
+            "cluster": 3,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nDesktop App\nIntroduction\nInstalling the Desktop App\nUsing the Desktop App\nUsing the Virtual Filesystem\nFilename Considerations\nManage Synchronisation Conflicts\nOpen Files with Office Web Apps\nAutomatic Updating\nRemoving the Desktop App\nFAQ\nAdvanced Usage\nCommand Line Parameters\nConfiguration File\nEnvironment Variables\nLow Disk Space\nThe Command Line Client\nAppendices\nHistory and Architecture\nTroubleshooting\nDesktop App\n5.3\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nDesktop App\nAdvanced Usage\nCommand Line Parameters\nnext\n5.3\n5.2\nEdit this Page\nCommand Line Parameters\nTable of Contents\nIntroduction\nCommand Description\nIntroduction\nThe ownCloud Client can be executed with various command line parameters. Command Description\nowncloud [options]\nCommand line parameters supported by\nowncloud\ninclude the following:\nParameter\nDescription\n-h, --help\nDisplays help on commandline options. FAQ\nConfiguration File\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "These parameters are valid for both the native and the Linux AppImage\ninstallation\n. -v, --version\nDisplays version information."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "-s, --showsettings\nShow the settings dialog while starting. -q, --quit\nQuit the running instance. --confdir <dirname>\nUse the given configuration folder. --debug\nEnable debug mode."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "--logfile <filename>\nWrite log to file (use - to write to stdout). --logflush\nFlush the log file after every write. --logdebug\nOutput debug-level messages in the log."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "--language <language>\nOverride UI language. --list-languages\nList available languages."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file_name": "desktop_5.3_advanced_usage_low_disk_space.html",
+    "file_path": "./owncloud_docs\\desktop_5.3_advanced_usage_low_disk_space.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nDesktop App\nIntroduction\nInstalling the Desktop App\nUsing the Desktop App\nUsing the Virtual Filesystem\nFilename Considerations\nManage Synchronisation Conflicts\nOpen Files with Office Web Apps\nAutomatic Updating\nRemoving the Desktop App\nFAQ\nAdvanced Usage\nCommand Line Parameters\nConfiguration File\nEnvironment Variables\nLow Disk Space\nThe Command Line Client\nAppendices\nHistory and Architecture\nTroubleshooting\nDesktop App\n5.3\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nDesktop App\nAdvanced Usage\nLow Disk Space\nnext\n5.3\n5.2\nEdit this Page\nLow Disk Space\nTable of Contents\nIntroduction\nCases\nIntroduction\nWhen disk space is low, the ownCloud Desktop App will be unable to synchronize all files. OWNCLOUD_FREE_SPACE_BYTES\nEnvironment Variables\nThe Command Line Client\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "This section describes its behavior in a low disk space situation as well as the adjustable environment variables that influence it."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Cases\nIssue\nAdjustable Environment Variable\nSynchronization of a folder aborts entirely if the remaining disk space falls below 50 MB."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "OWNCLOUD_CRITICAL_FREE_SPACE_BYTES\nDownloads that would reduce the free disk space below 250 MB will be skipped or aborted."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "The download will be retried regularly and other synchronization is unaffected."
+        }
+    ]
+}

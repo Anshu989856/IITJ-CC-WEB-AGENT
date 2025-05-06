@@ -1,0 +1,26 @@
+{
+    "file_name": "desktop_next_removing.html",
+    "file_path": "./owncloud_docs\\desktop_next_removing.html",
+    "chunks": [
+        {
+            "cluster": 0,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nDesktop App\nIntroduction\nInstalling the Desktop App\nUsing the Desktop App\nUsing the Virtual Filesystem\nFilename Considerations\nManage Synchronisation Conflicts\nOpen Files with Office Web Apps\nAutomatic Updating\nRemoving the Desktop App\nFAQ\nAdvanced Usage\nCommand Line Parameters\nConfiguration File\nEnvironment Variables\nLow Disk Space\nThe Command Line Client\nAppendices\nHistory and Architecture\nTroubleshooting\nDesktop App\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nDesktop App\nRemoving the Desktop App\nnext\n5.3\n5.2\nEdit this Page\nRemoving the Desktop App\nTable of Contents\nIntroduction\nRemoving the Binary\nRemoving the Configuration File\nWindows Navigation Sidebar\nIntroduction\nThis page describes the necessary steps to remove the Desktop App. Windows Navigation Sidebar\nIf you have removed the Desktop App but still have the ownCloud shortcut or symbol in the Windows Navigation Side Bar, here is how you to remove it:\nOpen\nregedit\n. (press the Windows Key and type regedit)\nSearch (CTL+F) for the name of the Desktop App, in this case\nowncloud\n. Automatic Updating\nFAQ\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Removing the Binary\nFollow the procedures of your operating system about how to remove the Desktop App binary. When using an AppImage, just delete the AppImage file. Removing the Configuration File\nWhen you remove the Desktop App — the configuration file remains on your system. In case you want a clean removal of the Desktop App, you manually have to delete the configuration file. Once this is done, you don’t need a reboot, just open and close your explorer — the sidebar is clean."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "If you then decide to install the client again, you won’t need to re-enter the connection information. The location of the configuration file is operating system dependent and can be found in the\nConfiguration File\ndescription. Once for the\nx64\nand\nx32\nsystem settings."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Press\nF3\nfor next search result. Look for the key\nSystem.IsPinnedToNameSpaceTree\n. Right-click on the key name, change, set to\n0\ninstead of\n1\n."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "You have to do this twice."
+        }
+    ]
+}

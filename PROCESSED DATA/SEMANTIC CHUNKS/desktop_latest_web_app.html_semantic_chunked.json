@@ -1,0 +1,26 @@
+{
+    "file_name": "desktop_latest_web_app.html",
+    "file_path": "./owncloud_docs\\desktop_latest_web_app.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nDesktop App\nIntroduction\nInstalling the Desktop App\nUsing the Desktop App\nUsing the Virtual Filesystem\nFilename Considerations\nManage Synchronisation Conflicts\nOpen Files with Office Web Apps\nAutomatic Updating\nRemoving the Desktop App\nFAQ\nAdvanced Usage\nCommand Line Parameters\nConfiguration File\nEnvironment Variables\nLow Disk Space\nThe Command Line Client\nAppendices\nHistory and Architecture\nTroubleshooting\nDesktop App\n5.3\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nDesktop App\nOpen Files with Office Web Apps\nnext\n5.3\n5.2\nEdit this Page\nOpen Files with Office Web Apps\nTable of Contents\nIntroduction\nPrerequisite\nOpen Files via Office Web Apps\nIntroduction\nYou can open and edit synced files locally using web apps without the need of local app installations. The the backend, which is either Infinite Scale or ownCloud Server needs to have been configured accordingly with web apps enabled. Right-click\non the file to open the context menu and click\nownCloud\nOpen in …​\nto select the application available. Manage Synchronisation Conflicts\nAutomatic Updating\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "This is very beneficial if:\nyour local environment does not have an office package installed or available,\nyou are collaborating with others on the same document. When more than one person is working on the same document and using a locally installed application like office, synchronization conflicts may happen if others sync a changed document while someone else is editing it. When using web apps, collaborative working is managed by the web application and synchronization is no longer an issue. The administrator can configure the system for multiple or only particular office file types if available."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "This can be hard to resolve. Contact your administrator for more details."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Prerequisite\nThe user only needs to have a browser installed. If web apps are not configured and enabled for all available or particular file types, the functionality is either not available in the context menu at all or only for the configured ones. Open Files via Office Web Apps\nThe first image shows an office file via the browser, based on the Infinite Scale backend. This file gets synced by the Desktop App and is locally available. Note that the web app shown is the one configured by the admin for this file type. If\nOpen in …​\nis not available, web apps have either not been enabled by the administrator at all or not for this file type. A browser window with the web app selected opens the file. Note that if multiple persons are accessing the same file via the web app, the app may show who has opened the file."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "No settings need to be made in the Desktop App. When you are leaving the web app, changed files are saved automatically. Depending on the web app, final saving may occur when the last person accessing a file in the web app closes the web app session or the last tab. This is indicated by the changed modification time. Syncing back will only occur after the file has been saved."
+        }
+    ]
+}

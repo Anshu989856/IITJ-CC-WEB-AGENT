@@ -1,0 +1,26 @@
+{
+    "file_name": "desktop_next_conflicts.html",
+    "file_path": "./owncloud_docs\\desktop_next_conflicts.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nDesktop App\nIntroduction\nInstalling the Desktop App\nUsing the Desktop App\nUsing the Virtual Filesystem\nFilename Considerations\nManage Synchronisation Conflicts\nOpen Files with Office Web Apps\nAutomatic Updating\nRemoving the Desktop App\nFAQ\nAdvanced Usage\nCommand Line Parameters\nConfiguration File\nEnvironment Variables\nLow Disk Space\nThe Command Line Client\nAppendices\nHistory and Architecture\nTroubleshooting\nDesktop App\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nDesktop App\nManage Synchronisation Conflicts\nnext\n5.3\n5.2\nEdit this Page\nManage Synchronisation Conflicts\nTable of Contents\nIntroduction\nExample Situation\nUploading Conflicts (experimental)\nIntroduction\nThe ownCloud Desktop App uploads local changes and downloads remote changes. For now, it can already be tested by setting the environment variable:\nOWNCLOUD_UPLOAD_CONFLICT_FILES = 1\n. Filename Considerations\nOpen Files with Office Web Apps\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "When a file has changed on the local and on the remote side between synchronization runs, the Desktop App will be unable to resolve the situation on its own. When attempting to upload your local changes the Desktop App will notice that the server version has also changed."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "It will create a conflict file with the local version, downloads the remote version and notifies the user that a conflict occurred which needs attention. Example Situation\nImagine there is a file called\nmydata.txt\nyour synchronized folder. It has not changed for a while and contains the text \"contents\" locally and remotely. Now, nearly at the same time you update it locally to say \"\nlocal contents\n\" while the file on the server gets updated to contain \"\nremote contents\n\" by someone else. It creates a conflict, and you will now have two files on your local machine:\nmydata.txt\ncontaining \"\nremote contents\n\"\nmydata (conflicted copy 2018-04-10 093612).txt\ncontaining \"\nlocal contents\n\"\nIn this situation the file\nmydata.txt\nhas the remote changes (and will continue to be updated with further remote changes when they happen), but your local adjustments have not been sent to the server (unless the server enables conflict uploading, see below). In this example you might change\nmydata.txt\nto say \"local and remote contents\" and delete the file with \"conflicted copy\" in its name. Uploading Conflicts (experimental)\nBy default, the conflict file (the file with \"conflicted copy\" in its name that contains your local conflicting changes) is not uploaded to the server."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "The Desktop App notifies you of this situation via system notifications, the system tray icon and a yellow \"unresolved conflicts\" badge in the account settings window. Clicking this badge shows a list that includes the unresolved conflicts and clicking one of them opens an explorer window pointing at the relevant file. To resolve this conflict, open both files, compare the differences and copy your local changes from the \"conflicted copy\" file into the base file where applicable. With that, the conflict is resolved. The idea is that you, the author of the changes, are the best person for resolving the conflict and showing the conflict to other users might create confusion. However, in some scenarios it makes a lot of sense to upload these conflicting changes such that local work can become visible even if the conflict won’t be resolved immediately."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "In the future there might be a server-wide switch for this behavior."
+        }
+    ]
+}
