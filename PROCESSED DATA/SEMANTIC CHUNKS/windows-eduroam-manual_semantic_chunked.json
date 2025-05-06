@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Eduroam configuration steps for Windows User \n \nConnect with SSID: eduroam  from available Wi-Fi connection on your Windows \nmachine. In the Network name field type Wi-Fi SSID name: eduroam  In the Security type \nselect WPA2-Enterprise from dropdown list and click on Next. You will now be presented with a Successfully added your wifi ssid eduroam  \nmessage. Now \nyou should successfully connect to eduroam  Wi-Fi SSID to access the internet \nfacility."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Enter your internet access username@ad.iitj.ac.in  and password and click \non okay to access internet services. Plz add @ad.iitj.ac.in  before your username. In some Windows machines, above mentioned steps will not work due to manually \nenable security or updates then you need to configure the same manually via \nfollowing steps. Now enter your internet access username@ad.iitj.ac.in and password, followed \nby clicking on OK. Plz add @ad.iitj.ac.in  before your username."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "On your Windows device open search, type Control Panel and open the Control \nPanel application. Once the Control Panel window is open click on [View network status and tasks]. Look for Network and Sharing Window and click on [ Set up a new connection or \nnetwork]. Now click on [Manually connect to a wireless network] followed by clicking Next. Let’s click on [Change connection \nsettings]. Once back on Wireless Network Properties click on [Advanced Settings]. Click on the OK Button on all 2 previous windows as well. Last step is to click on [Close] of the manually connect to a wireless network."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "However, you are not finished yet."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Now click on settings under [Security] tab. Un-Check Verify the server’s identity by validating the certificate and then click OK. \n \n\n9. Select the [checkbox] for Specify authentication mode under Advanced settings. Choose [User authentication] from the dropdown and click on [Save credentials] \n \n\n11."
+        }
+    ]
+}

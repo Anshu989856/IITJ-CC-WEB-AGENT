@@ -1,0 +1,26 @@
+{
+    "file_name": "unknown",
+    "file_path": "",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Above screen will appears."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Use your internet access credentials for login with SSL-VPN Portal. Download FortiClient - Download and install the FortiClient tool as per your convenience – iOS, Android, Windows and Mac   \n\nSSL-VPN connection procedure of FortiClient Application  Following is the first view of FortiClient after installing the tool as per your system’s requirement. Open the tool and Click on Configure VPN under Remote Access Tab. Select SSL-VPN and enter the required information as follows. Save the VPN connection setting and provide your internet access credentials on next screen. After successful VPN connection following window will appear."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "After successful login you have two different options to go further. It will pop up a security alert box, click on Yes and wait for the connection to complete."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "Launch FortiClient - If you have already installed the FortiClient then you may launch FortiClient  2."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Now you can use intranet services of the IIT Jodhpur."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file_name": "webui_next_owncloud_web_index.html",
+    "file_path": "./owncloud_docs\\webui_next_owncloud_web_index.html",
+    "chunks": [
+        {
+            "cluster": 0,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nownCloud Web User Interfaces\nIntroduction\nownCloud Web\nIntroduction\nRequirements\nownCloud Web on ownCloud Server\nownCloud Web for Users\nownCloud Web for Admins\nownCloud Web User Interfaces\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nownCloud Web User Interfaces\nownCloud Web\nIntroduction\nEdit this Page\nownCloud Web\nTable of Contents\nIntroduction\nChanges\nSecurity Aspects\nIntroduction\nownCloud web comes with a completely new design that is more user-friendly and intuitive and, of course, optimized for Infinite Scale. If you are still running ownCloud Server, consider installing the\nWeb\napp, which provides the new look and feel plus some additional features, but not everything ownCloud Web has to offer when used with Infinite Scale. For a quick introduction about what’s new or different, check out the section\nownCloud Web on ownCloud Server\n. Changes\nFor readers already familiar with ownCloud 10 and its standard web interface, the big differences in the new ownCloud Web on Infinite Scale are:\nSpaces: Spaces are special folders for teams. Security Aspects\nThe development of ownCloud Web is closely aligned to the development of Infinite Scale. Introduction\nRequirements\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "They are organized by the team members themselves so that admins don’t need to manage them. Even if members leave, the files stay in place so your team can keep on working."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "Simplified links: Just select if only invited people or everyone can access a link. Simplified sharing, for example: Get links with only 1 click or see at a glance who and which links are giving access."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "In consequence, we no longer distinguish between private and public links."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Read the Infinite Scale\nSecurity Aspects\ndocument for more details."
+        }
+    ]
+}

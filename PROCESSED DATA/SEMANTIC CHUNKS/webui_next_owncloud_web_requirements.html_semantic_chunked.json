@@ -1,0 +1,26 @@
+{
+    "file_name": "webui_next_owncloud_web_requirements.html",
+    "file_path": "./owncloud_docs\\webui_next_owncloud_web_requirements.html",
+    "chunks": [
+        {
+            "cluster": 1,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nownCloud Web User Interfaces\nIntroduction\nownCloud Web\nIntroduction\nRequirements\nownCloud Web on ownCloud Server\nownCloud Web for Users\nownCloud Web for Admins\nownCloud Web User Interfaces\nnext\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nownCloud Web User Interfaces\nownCloud Web\nRequirements\nEdit this Page\nRequirements\nTable of Contents\nIntroduction\nDesktop Requirements\nAdditional Information\nUnsupported Browsers\nThe Desktop App\nMobile Requirements\nIntroduction\nTo run ownCloud Web with full satisfaction, some requirements must be met. Though older versions may work without any issues, ownCloud can only give support for the described requirements. The Desktop App\nComplementary to ownCloud Web, you may install the\nDesktop App\n, available for Windows, macOS and Linux, which enables you to sync your environment with your local device. ownCloud Web provides basic functionality on mobile devices, but not all features are available. For mobile devices, the installation of the free Android or iOS App is required:\nAndroid App\nGoogle Play Store\niOS App\nApple App Store\nIntroduction\nownCloud Web on ownCloud Server\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 2,
+            "chunk_content": "Desktop Requirements\nWhen using a desktop device like a PC, Notebook including Microsoft Surface, the following browsers are supported:\nBrowser\nSupported Version\nOperating System\nChrome\nLatest 2 versions\nWindows 10+\nmacOS 12.5+\nLinux\nFirefox\nLatest 2 versions\nWindows 10+\nmacOS 12.5+\nLinux\nEdge\nLatest 2 versions\nWindows 10+\nSafari\n16+\nmacOS 12.6+\nAdditional Information\nTouch input is supported on desktop devices. Mobile Requirements\nNote that Microsoft Surface tablets have the same category as desktop devices. In most cases the screen is just too small to show all elements in a proper manner, though it may work on tablets."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "The required minimum resolution is 1280 x 720 px."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "Unsupported Browsers\nMicrosoft’s Internet Explorer is not supported as IE does not provide necessary functionalities. Other browsers like Opera are unsupported, too, but may work without any issues."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "For requirements see above."
+        }
+    ]
+}

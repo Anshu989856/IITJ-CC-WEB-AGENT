@@ -1,0 +1,26 @@
+{
+    "file_name": "server_releases.html",
+    "file_path": "./owncloud_docs\\server_releases.html",
+    "chunks": [
+        {
+            "cluster": 2,
+            "chunk_content": "Documentation for ownCloud (A Kiteworks Company)\nownCloud Main Page\nOverview\nServer Releases\nInfinite Scale Releases\nInfinite Scale Release Notes\nownCloud Server Releases\nownCloud Server Release Notes\nApp Releases\nDesktop App Release Notes\niOS App Release Notes\nAndroid App Release Notes\nHow to Contribute\nServer\nInfinite Scale\nownCloud Server\nApps and User Interfaces\nWeb Infinite Scale\nWeb ownCloud Server\nDesktop App\nMobile App for Android\nMobile App for iOS\nownCloud Main Page\nDesktop App\nnext\n5.3\n5.2\nInfinite Scale Documentation\nnext\n7.1\n7.0\nMobile App for Android\nnext\n4.5\n4.4\nMobile App for iOS\nnext\n12.4\n12.3\nownCloud Main Page\nownCloud Server\nnext\n10.15\n10.14\nownCloud Web User Interfaces\nnext\nownCloud Main Page\nOverview\nServer Releases\nownCloud Server Releases\nEdit this Page\nownCloud Server Releases\nTable of Contents\nIntroduction\nownCloud Server Releases\nLatest Stable Release (version 10.15)\nPrevious Stable Release (version 10.14)\nOlder ownCloud Server Releases\nIntroduction\nownCloud provides in-depth documentation for three different releases. ownCloud 10.7\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.6\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.5\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.4\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.3\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.2\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.1\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 10.0\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 9.1\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 9.0\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nownCloud 8.2\nAdministration Manual\nDownload PDF\nDeveloper Manual\nDownload PDF\nUser Manual\nDownload PDF\nAll documentation licensed under the Creative Commons Attribution 3.0 Unported license. Infinite Scale Release Notes\nownCloud Server Release Notes\nAbout ownCloud\nThe Secure Collaboration Platform\nNews\nPrivacy statement\nImprint\nResources\nFAQ\nHelp\nSecurity\nChangelog\nGet started\nInteract\nRocket.Chat\nForum\nContribute\nCustomer support\n© Copyright 2011-2025, The ownCloud developers."
+        },
+        {
+            "cluster": 4,
+            "chunk_content": "This in-depth documentations contain an\nonline\nbrowser-based and\npdf\nversion."
+        },
+        {
+            "cluster": 0,
+            "chunk_content": "You can select the online releases via the release selector in the browser window or by replacing the release name in the URL. If you replace the shown release name with\nlatest\nin the URL, you will always be directed to the current stable release if the respective page exists."
+        },
+        {
+            "cluster": 1,
+            "chunk_content": "The selectable releases are:\nThe current stable release\nThe last release before the current stable release\nThe next upcoming, but not yet published release\nownCloud also provides a\npdf\nonly documentation for older releases if available. ownCloud Server Releases\nSee the\nMaintenance and Release schedule\nfor full release schedule details. Latest Stable Release (version 10.15)\nAdministration Manual\nDeveloper Manual\nUser Manual\nPrevious Stable Release (version 10.14)\nAdministration Manual\nDeveloper Manual\nUser Manual\nOlder ownCloud Server Releases\nSee the\nMaintenance and Release schedule\nfor full release schedule details. These are the older ownCloud releases."
+        },
+        {
+            "cluster": 3,
+            "chunk_content": "Users of these releases are\nstrongly encouraged\nto upgrade to the latest production release."
+        }
+    ]
+}
